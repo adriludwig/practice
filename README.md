@@ -1,6 +1,6 @@
 # practice
 Practice Reproducible Research
-1 - Test
+## 1 - Test
 Editing
 ## Test 2
 Editing
